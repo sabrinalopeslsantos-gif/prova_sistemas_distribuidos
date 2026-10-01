@@ -13,7 +13,7 @@ uma loja precisava que o cliente solicitasse para o servidor o calculo dos ponto
 -cliente.py: solicita o cálculo ao servidor e mostra a resposta.
 
 ##Resultado do teste
-
+200
 
 ##Explicação
 
